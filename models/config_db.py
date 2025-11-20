@@ -6,7 +6,7 @@ class Database:
     CONFIG = {
         'host': 'localhost',
         'user': 'root',             
-        'password': 'Zinderellasnuff_344',              
+        'password': 'root',              
         'database': 'gestion_clientes_jp',
         'charset': 'utf8mb4'
     }
